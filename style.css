@@ -82,15 +82,3 @@
     #developer:hover {
         font-size: 16px;
     }
-    #lastdesc {
-        background-color: darkgreen;
-        border-radius: 12px;
-        padding-bottom: 5px;
-        text-align: center;
-        font-size: 15px;
-        transition-duration: 0.3s;
-    }
-    #lastdesc:hover {
-        font-size: 16px;
-    }
-    
